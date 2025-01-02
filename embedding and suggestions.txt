@@ -1,0 +1,11 @@
+download and install ollama
+
+=>for embedding
+
+install nomic-embed-text 
+sklearn 
+metrix
+
+=> for categorizaton and suggestion 
+
+install phi3
